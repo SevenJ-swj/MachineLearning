@@ -1,2 +1,2 @@
 # MachineLearning
-Design And implemention Algorithm
+Design And implemention AlgorithmS
